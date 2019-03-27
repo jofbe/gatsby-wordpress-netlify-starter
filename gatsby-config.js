@@ -37,8 +37,6 @@ module.exports = {
         excludedRoutes: [
           "/*/*/comments",
           "/yoast/**",
-          "/*/*/users",
-          "/*/users/me",
           "/oembed/*"
         ],
       }
